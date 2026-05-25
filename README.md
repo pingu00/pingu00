@@ -2,6 +2,10 @@
 
 Mobile application development student with hands-on experience building **Android**, **iOS**, and **full-stack web** applications.
 
+- Portfolio: [Mobile & Software Developer Portfolio](YOUR_NOTION_LINK)
+- LinkedIn: [linkedin.com/in/pilgyu](https://linkedin.com/in/pilgyu)
+- Email: pilgyu.kim@georgebrown.ca
+
 ## Tech Stack
 **Languages:** Swift, Kotlin, Java, JavaScript, HTML/CSS  
 **Frameworks & Tools:** Jetpack Compose, SwiftUI, MVVM, Room, Core Data, StateFlow, Node.js, Express, MongoDB, Mongoose, REST APIs
