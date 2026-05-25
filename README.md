@@ -2,7 +2,7 @@
 
 Mobile application development student with hands-on experience building **Android**, **iOS**, and **full-stack web** applications.
 
-- Portfolio: [Mobile & Software Developer Portfolio](YOUR_NOTION_LINK)
+- Portfolio: [Mobile & Software Developer Portfolio](https://www.notion.so/Phil-Kim-Pilgyu-Kim-8ea235f34e2f4ddbb4544dfe8a768804?source=copy_link)
 - LinkedIn: [linkedin.com/in/pilgyu](https://linkedin.com/in/pilgyu)
 - Email: pilgyu.kim@georgebrown.ca
 
